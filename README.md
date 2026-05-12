@@ -1,39 +1,4 @@
-# tictactoe
-<!DOCTYPE html>
-<html>
-<script>
-<html lang="id">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tic Tac Toe</title>
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        text-align: center;
-        background: #1e1e1e;
-        color: white;
-    }
-
-    h1 {
-        margin-top: 20px;
-    }
-
-    .board {
-        display: grid;
-        grid-template-columns: repeat(3, 100px);
-        gap: 5px;
-        justify-content: center;
-        margin-top: 20px;
-    }
-
-    .cell {
-        width: 100px;
-        height: 100px;
-        background: #333;
-        border: 2px solid #555;
-        font-size: 40px;
+#tictactoe        font-size: 40px;
         color: white;
         cursor: pointer;
 
